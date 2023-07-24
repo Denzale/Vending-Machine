@@ -1,0 +1,10 @@
+.Soda {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+}
+
+.Soda img {
+  animation: spin 1s linear infinite;
+}
